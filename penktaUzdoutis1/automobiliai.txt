@@ -1,0 +1,2 @@
+﻿1 ; Toyota ; Prius ;2020 ; 30000 ; ElektrinisAutomobilis ; 8.8 ; 50
+2 ; BMW ; X5 ; 2019 ; 45000 ; VidausDegimoAutomobilis ; Benzinas

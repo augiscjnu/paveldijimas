@@ -1,0 +1,2 @@
+﻿1 ; Haris Poteris ir Išminties akmuo ; J.K. Rowling ; 1997 ; Fantastika ; PopierineKnyga ; 320
+2 ; Pride and Prejudice ; Jane Austen ; 1813 ; Grožinė literatūra ; ElektronineKnyga ; 1.2 ; EPUB
